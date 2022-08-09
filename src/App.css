@@ -132,32 +132,32 @@
 
 
 .bg1 {
-  background-image:  url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/1.jpg');
+  background-image:   url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/1.jpg'), url('./asset/miniBg/1.jpg');
   background-size: cover;
 }
 
 .bg2 {
-  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/2.jpg');
+  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/2.jpg'), url('./asset/miniBg/2.jpg');
   background-size: cover;
 }
 
 .bg3 {
-  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/3.jpg');
+  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/3.jpg'), url('./asset/miniBg/3.jpg');
   background-size: cover;
 }
 
 .bg4 {
-  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/4.jpg');
+  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/4.jpg'), url('./asset/miniBg/4.jpg');
   background-size: cover;
 }
 
 .bg5 {
-  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/5.jpg');
+  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/5.jpg'), url('./asset/miniBg/5.jpg');
   background-size: cover;
 }
 
 .bg6 {
-  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/6.jpg');
+  background-image: url('https://imagehost-1311720054.cos.ap-nanjing.myqcloud.com/home/6.jpg'), url('./asset/miniBg/6.jpg');
   background-size: cover;
 }
 
